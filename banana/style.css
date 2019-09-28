@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+.hello {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: green !important;
+    color: #ffffff;
+    font-size: 25px;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    border: 10px 0 0 10px;
+}
+.goodbye {
+    background-color: red;
+    color: #ffffff;
+    font-size: 25px;
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    border: 10px 0 0 10px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+i {
+    width: 30px;
+}
+img {
+    width: 300px;
+}
